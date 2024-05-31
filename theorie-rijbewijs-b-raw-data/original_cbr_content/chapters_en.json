@@ -1,0 +1,106 @@
+[
+    {
+        "category": "A",
+        "chapter": "General provisions"
+    },
+    {
+        "category": "B",
+        "chapter": "Terms authorization to drive and driving licenses"
+    },
+    {
+        "category": "C",
+        "chapter": "Interior, loading and towing of vehicles"
+    },
+    {
+        "category": "D",
+        "chapter": "Engineering, maintenance and inspection of vehicles"
+    },
+    {
+        "category": "E",
+        "chapter": "Use of seatbelts and helmets; seating area"
+    },
+    {
+        "category": "F",
+        "chapter": "Environmentally-friendly and energy efficient driving"
+    },
+    {
+        "category": "G",
+        "chapter": "Risks related to the state of the driver"
+    },
+    {
+        "category": "H",
+        "chapter": "Risks related properties and state own vehicle"
+    },
+    {
+        "category": "I",
+        "chapter": "Traffic situations"
+    },
+    {
+        "category": "J",
+        "chapter": "Risks related to the presence and behavior of other traffic"
+    },
+    {
+        "category": "K",
+        "chapter": "Risks related to road visibility and weather conditions"
+    },
+    {
+        "category": "L",
+        "chapter": "Response to accidents and car failure while in transit"
+    },
+    {
+        "category": "M",
+        "chapter": "Give priority at crossroads"
+    },
+    {
+        "category": "N",
+        "chapter": "Give priority at turns"
+    },
+    {
+        "category": "O",
+        "chapter": "Give priority to the blind, the disabled and pedestrians"
+    },
+    {
+        "category": "P",
+        "chapter": "Priority vehicles, military convoys, funeral processions and trams"
+    },
+    {
+        "category": "Q",
+        "chapter": "Special maneuvers"
+    },
+    {
+        "category": "R",
+        "chapter": "Place on the road and pre-sorting"
+    },
+    {
+        "category": "S",
+        "chapter": "Overtaking"
+    },
+    {
+        "category": "T",
+        "chapter": "Speed"
+    },
+    {
+        "category": "U",
+        "chapter": "Standing still and parking"
+    },
+    {
+        "category": "V",
+        "chapter": "Signs and signals"
+    },
+    {
+        "category": "W",
+        "chapter": "Use of lights"
+    },
+    {
+        "category": "X",
+        "chapter": "Traffic signs"
+    },
+    {
+        "category": "Y",
+        "chapter": "Traffic lights and indications"
+    },
+    {
+        "category": "Z",
+        "chapter": "Road markings"
+    }
+]

@@ -1,0 +1,52 @@
+/* Chapter Styling */
+.chapter {
+  display: none;
+  position: absolute;
+  background-color: white;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  z-index: 1000; /* Ensure the tooltip is above other content */
+}
+
+a {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: x-large;
+}
+
+/* .btn-success {
+  background-color: green;
+  color: white;
+} */
+
+img {
+  border-radius: 5px;
+}
+
+/* Tooltip container */
+.tooltip {
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  /* Initially hide the tooltip */
+  display: none;
+}
+
+/* Tooltip arrow */
+.tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #333 transparent transparent transparent;
+}
+
+#feedback-container {
+  display: none !important;
+}

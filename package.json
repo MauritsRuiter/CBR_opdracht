@@ -1,0 +1,19 @@
+{
+  "name": "cbr_opdracht",
+  "version": "1.0.0",
+  "description": "cbr_oefenen_opdracht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cbr_opdracht"
+  },
+  "type": "module",
+  "author": "Maurits Ruiter",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}
